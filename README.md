@@ -1,1 +1,22 @@
-# Learn more about my work at [daskie.github.io](https://daskie.github.io).
+## Ongoing Projects
+
+### [Quasar](https://github.com/Daskie/quasar)
+...
+
+### [QC Hash](https://github.com/Daskie/qc-hash)
+...
+
+### [QC Json](https://github.com/Daskie/qc-json)
+...
+
+### [QC CMake](https://github.com/Daskie/qc-cmake)
+...
+
+### [QC Image](https://github.com/Daskie/qc-image)
+...
+
+### [QC_Glyphs](https://github.com/Daskie/qc-glyphs)
+...
+
+## Old Projects
+...
