@@ -1,5 +1,8 @@
 ## Current Projects
 
+### [Quasar](https://github.com/daskie/quasar)
+Homespun, Vulkan-based graphics engine for C++20. Very much a work in progress (I spend most of my time here 😉)
+
 ### [**QC Hash**](https://github.com/daskie/qc-hash)
 Extremely fast unordered map and set library for C++20
 
@@ -11,9 +14,6 @@ Vector, matrix, quaternion, and foundational utilities library for C++20
 
 ### [QC CMake](https://github.com/daskie/qc-cmake)
 Common CMake templates and utilities for QC libraries
-
-### [Quasar](https://github.com/daskie/quasar)
-Homespun, Vulkan-based graphics engine for C++
 
 ### [QC Glyphs](https://github.com/daskie/qc-glyphs)
 Rasterized and pseudo-signed distance field glyph sheet generator and typesetting library for C++20
