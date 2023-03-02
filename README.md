@@ -3,11 +3,11 @@
 ### [Quasar](https://github.com/daskie/quasar)
 Homespun, Vulkan-based graphics engine for C++20. Very much a work in progress (I spend most of my time here 😉)
 
+### [QCON](https://github.com/daskie/qcon)
+A superset of JSON designed for low-level programming
+
 ### [**QC Hash**](https://github.com/daskie/qc-hash)
 Extremely fast unordered map and set library for C++20
-
-### [QC Json](https://github.com/daskie/qc-json)
-Quick and clean JSON5 header library for C++20
 
 ### [QC Core](https://github.com/daskie/qc-core)
 Vector, matrix, quaternion, and foundational utilities library for C++20
@@ -22,6 +22,9 @@ Rasterized and pseudo-signed distance field glyph sheet generator and typesettin
 Dead simple image read/write/manipulation library for C++20
 
 ## Old Projects
+
+### [QC Json](https://github.com/daskie/qc-json)
+Quick and clean JSON5 header library for C++20
 
 ### [Geocracy](https://github.com/daskie/Geocracy)
 The classic strategy game Risk, but on a procedurally generated 3D globe! Developed for Android
