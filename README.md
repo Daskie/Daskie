@@ -1,6 +1,6 @@
 ## Current Projects
 
-### [Quasar](https://github.com/daskie/quasar)
+### [QC Engine](https://github.com/daskie/qc-engine)
 Homespun, Vulkan-based graphics engine for C++20. Very much a work in progress (I spend most of my time here 😉)
 
 ### [QCON](https://github.com/daskie/qcon)
